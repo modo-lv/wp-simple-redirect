@@ -12,3 +12,6 @@ A fork of Scott Nellé's "Simple 301 Redirects" WordPress plugin.
 ## Compatibility
 * Plugin configuration is 100% compatible — you can switch between the original plugin and this one at will.
 * This plugin **can not** run at the same time as the original, because an address cannot be redirected to two addresses. So make sure that either this plugin or the original is active, but not both.
+
+## Credits
+* Original plugin: http://www.scottnelle.com/simple-301-redirects-plugin-for-wordpress/
