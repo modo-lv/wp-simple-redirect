@@ -1,4 +1,4 @@
-# Simple Redirect (plugin for WordPress)
+# Simple Redirects (plugin for WordPress)
 A fork of Scott Nellé's "Simple 301 Redirects" WordPress plugin.
 
 ## Changes
