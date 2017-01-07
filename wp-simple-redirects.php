@@ -64,7 +64,7 @@ if (!class_exists("SimpleRedirects")) {
 		
 			<h2>Simple Redirects</h2>
 			
-			<form method="post" id="simple_301_redirects_form" action="options-general.php?page=301options&savedata=true">
+			<form method="post" id="simple_301_redirects_form" action="options-general.php?page=redirect_options&savedata=true">
 			
 			<?php wp_nonce_field( 'save_redirects', '_s301r_nonce' ); ?>
 
